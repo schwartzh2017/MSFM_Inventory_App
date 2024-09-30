@@ -1,0 +1,29 @@
+{
+  "name": "msfm_inventory_app",
+  "version": "1.0.0",
+  "description": "msfm inventory app for nurse",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schwartzh2017/MSFM_Inventory_App.git"
+  },
+  "keywords": [
+    "inventory",
+    "msfm",
+    "medications",
+    "application"
+  ],
+  "author": "Haleigh Schwartz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schwartzh2017/MSFM_Inventory_App/issues"
+  },
+  "homepage": "https://github.com/schwartzh2017/MSFM_Inventory_App#readme",
+  "devDependencies": {
+    "electron": "32.1.2"
+  }
+}
