@@ -10,3 +10,6 @@ Template from Electron Forge:
 Copied .gitignore file from: https://github.com/github/gitignore/blob/main/Node.gitignore (as recommended by Electron documentation)
 
 App made in RStudio
+
+
+(NOTE: put on hold as of 10/14/24. Will publish through Shiny instead)
